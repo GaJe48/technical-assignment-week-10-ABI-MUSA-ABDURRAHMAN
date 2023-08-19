@@ -7,4 +7,4 @@ coding sensor HC-SR04 dengan Ubidots untuk menghitung jarak dalam cm beserta scr
 
 Ubidots Dashboard Screenshot: 
 
-![dashboard](https://github.com/GaJe48/technical-assignment-week-10-ABI-MUSA-ABDURRAHMAN/blob/master/ubidots-dashbord-jarak.png)
+![dashboard](https://github.com/GaJe48/technical-assignment-week-10-ABI-MUSA-ABDURRAHMAN/blob/master/ubidots-dashboard-jarak.png)
